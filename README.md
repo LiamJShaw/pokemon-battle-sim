@@ -1,1 +1,1 @@
-# pokemon-battle-sim
+# Pokemon Battle Simulator
